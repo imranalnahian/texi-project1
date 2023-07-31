@@ -1,0 +1,369 @@
+/* Small devices (landscape phones, 576px and up) */
+@media (max-width: 575px) {
+    header {
+        padding-bottom: 0;
+    }
+
+    .navbar-toggler {
+        background-color: white;
+    }
+
+    .menu ul li a::after {
+        opacity: 0;
+    }
+
+    .menu ul li a::before {
+        opacity: 0;
+    }
+
+    .menu ul li a {
+        margin: 0;
+    }
+
+    .common-heading p {
+        padding: 0 0px;
+    }
+
+    .text-content h1 {
+        font-size: 40px;
+        text-align: center;
+    }
+
+    .banner-content {
+        padding: 35px 0;
+    }
+
+    .text-content p {
+        font-size: 16px;
+        padding-right: 0;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .button {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 50px;
+    }
+
+    .form-content {
+        padding: 15px;
+        border-radius: 10px;
+    }
+
+    .common-heading h1 {
+        font-size: 40px;
+    }
+
+    .common-heading {
+        margin: 20px 0 35px;
+    }
+
+    .common-heading p {
+        font-size: 16px;
+    }
+
+    .about-text h2 {
+        font-size: 22px;
+        margin-bottom: 14px;
+    }
+
+    .about-text p {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    .cards {
+        margin-top: 25px;
+    }
+
+    .about-text {
+        text-align: center;
+    }
+
+    .cus-carousel {
+        padding: 25px 15px;
+        text-align: center;
+    }
+
+    .slide-text h2 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+
+    .slide-text p {
+        font-size: 16px;
+        margin: 10px 0 25px;
+        text-align: center;
+    }
+
+    .slide-text {
+        margin-bottom: 25px;
+    }
+
+    .custom-list {
+        list-style: none;
+        padding: 0 10px;
+    }
+
+    .contact-container .contact .rightside p {
+        margin: 15px 0 24px !important;
+    }
+
+    .contact-container .contact .rightside .submit-form {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 30px;
+    }
+
+    .contact-container .contact .rightside .form-message {
+        display: none;
+    }
+
+    .copyRight p {
+        font-size: 16px;
+    }
+
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    header {
+        padding-bottom: 0;
+    }
+
+    .navbar-toggler {
+        background-color: white;
+    }
+
+    .menu ul li a::after {
+        opacity: 0;
+    }
+
+    .menu ul li a::before {
+        opacity: 0;
+    }
+
+    .menu ul li a {
+        margin: 0;
+    }
+
+    .common-heading p {
+        padding: 0 0px;
+    }
+
+    .text-content h1 {
+        font-size: 40px;
+        text-align: center;
+    }
+
+    .banner-content {
+        padding: 35px 0;
+    }
+
+    .text-content p {
+        font-size: 19px;
+        padding-right: 0;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .button {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 50px;
+    }
+
+    .form-content {
+        padding: 20px 0px;
+        border-radius: 10px;
+    }
+
+    .common-heading h1 {
+        font-size: 40px;
+    }
+
+    .common-heading {
+        margin: 20px 0 35px;
+    }
+
+    .common-heading p {
+        font-size: 16px;
+    }
+
+    .about-text h2 {
+        font-size: 22px;
+        margin-bottom: 14px;
+    }
+
+    .about-text p {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    .cards {
+        margin-top: 0;
+    }
+
+    .cards-sm {
+        margin-top: 25px;
+    }
+
+    .about-text {
+        text-align: center;
+    }
+
+    .cus-carousel {
+        padding: 25px 15px;
+        text-align: center;
+    }
+
+    .slide-text h2 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+
+    .slide-text p {
+        font-size: 16px;
+        margin: 10px 0 25px;
+        text-align: center;
+    }
+
+    .slide-text {
+        margin-bottom: 25px;
+    }
+
+    .custom-list {
+        list-style: none;
+        padding: 0 10px;
+    }
+
+    .contact-container .contact .rightside p {
+        margin: 15px 0 24px !important;
+    }
+
+    .contact-container .contact .rightside .submit-form {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 30px;
+    }
+
+    .contact-container .contact .rightside .form-message {
+        display: none;
+    }
+
+    .copyRight p {
+        font-size: 18px;
+    }
+
+    .pb-sm {
+        padding-bottom: 45px;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .navbar-toggler {
+        background-color: white;
+    }
+
+    .menu ul li a::after {
+        opacity: 0;
+    }
+
+    .menu ul li a::before {
+        opacity: 0;
+    }
+
+    .menu ul li a {
+        margin: 0;
+    }
+
+    .banner-content {
+        padding: 35px 0;
+    }
+
+    .text-content p {
+        font-size: 18px;
+        padding-right: 0;
+        margin-bottom: 20px;
+    }
+
+    .common-heading {
+        margin: 38px 0;
+    }
+
+    .common-heading p {
+        font-size: 20px;
+        padding: 0;
+        margin-top: 10px;
+    }
+
+    .about-text {
+        text-align: center;
+    }
+
+    .cards {
+        margin-top: 0;
+    }
+
+    .cards-sm {
+        margin-top: 25px;
+    }
+
+    .pb-sm {
+        padding-bottom: 45px;
+    }
+
+    .slide-text {
+        text-align: center;
+        padding-top: 30PX;
+    }
+
+    .slide-text p {
+        text-align: center;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .banner-content {
+        padding: 50px 0;
+    }
+
+    .text-content h1 {
+        font-size: 41px;
+    }
+
+    .common-heading p {
+        padding: 0 185px;
+    }
+
+    .text-content p {
+        padding-right: 80px;
+    }
+
+    .about-text h2 {
+        font-size: 22px;
+    }
+
+    .about-text p {
+        text-align: justify;
+    }
+
+    .cards-lg {
+        padding-bottom: 19px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .slide-text h2 {
+        font-size: 29px;
+    }
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {}
